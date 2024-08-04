@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMABOJUNIOR
-- 👀 I’m interested in Software Engineering and Artificial Intelligence 
-- 🌱 I’m currently learning pythona and javascript 
+- 👀 I’m interested in Software Engineering together with the implementation of AI & IT in every aspect of life.
+- 🌱 I’m currently learning python and javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +237681234430 on WhatsApp 
 
